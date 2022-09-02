@@ -2,7 +2,7 @@
 Hand tracking only using CPU with mediapipe library by Google. MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
 ## Finger Counter
 We first look into hand tracking and then we will use the hand landmarks to count of the fingers. And all of this will be happening in real-time and requires close to no installations and configurations.
-![image](https://github.com/zopcuk/HandTrackingProject/blob/master/outputs/SS-FC-0.png = 640x480)
+![image](https://github.com/zopcuk/HandTrackingProject/blob/master/outputs/SS-FC-0.png)
 ## Gesture Volume Control
 Gesture Control to change the volume of a computer. We first look into hand tracking and then we will use the hand landmarks to find gestures of our hand to change the volume. This project is module-based which means we will be using a previously created hand module which makes hand tracking very easy.
 ## AI Virtual Mouse
