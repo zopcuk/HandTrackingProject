@@ -33,7 +33,7 @@ while True:
     img = cv2.flip(img, 1)
     # 2.Find Hand Landmarks
     img = detector.findHands(img)
-    lmList = detector.findPosition(img, draw=False)
+    lmList, _ = detector.findPosition(img, draw=False)
     if len(lmList) != 0:
         # tip of index and middle finger
         x1, y1 = lmList[8][1:]
