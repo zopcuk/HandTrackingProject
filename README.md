@@ -6,6 +6,7 @@ We first look into hand tracking and then we will use the hand landmarks to coun
   <img src="https://github.com/zopcuk/HandTrackingProject/blob/master/outputs/SS-FC-0.png" width="640" height="480" />
   <img src="https://github.com/zopcuk/HandTrackingProject/blob/master/outputs/SS-FC-1.png" width="640" height="480" />
   <img src="https://github.com/zopcuk/HandTrackingProject/blob/master/outputs/SS-FC-5.png" width="640" height="480" />
+  
 ## Gesture Volume Control
 Gesture Control to change the volume of a computer. We first look into hand tracking and then we will use the hand landmarks to find gestures of our hand to change the volume. This project is module-based which means we will be using a previously created hand module which makes hand tracking very easy.
 ## AI Virtual Mouse
